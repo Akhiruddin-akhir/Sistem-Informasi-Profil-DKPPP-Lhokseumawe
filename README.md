@@ -1,4 +1,4 @@
-# Website Sekolah
+# Website Sistem Informasi Profil Dinas
 
 ### Teknologi apa saja yang digunakan?
 1. codeigniter 3.1.10
@@ -14,25 +14,23 @@
 2. Home
 	- Management pengunguman
 	- Management berita
-3. Riwayat sekolah
-	- Management sejarah
-	- Management kepala sekolah
+3. Profil Dinas
+	- Manajemen Sejarah 
+	- Management kepala Dinas
 	- Management visi misi
-	- Management struktur sekolah
-4. Management File download
-5. Management Data Jurusan
-6. Management Fasilitas Sekolah
-7. Guru & Staf/Karyawan
-	- Management Data Duru
-	- Management Data staf
-8. Galeri
+	- Management struktur Dinas
+4. Management Bidang
+   - Manajemen Bidang Perikanan
+   - Manajemen Bidang Perkebunan
+   - Manajemen Bidang Peternakan
+5. Staf/Karyawan
+	- Management Data Tenaga Kerja
+	- Management Data Karyawan
+6. Galeri
 	- Management Foto
 	- Management video
-9. Management Kontak
-10. Pengaturan
-	- Management Logo Sekolah
-	- Management Opening Word
-11. Management User
+7. Management Unduhan
+
 
 ### Memerlukan
 1. PHP7.3.20 atau 7.4
